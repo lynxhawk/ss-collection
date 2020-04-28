@@ -6,3 +6,4 @@ collection for shadowsocks and shadowsocksr
 - shadowsocks-libev <https://github.com/shadowsocks/shadowsocks-libev>
 - shadowsocksr-csharp <https://github.com/shadowsocksr-rm/shadowsocksr-csharp>
 - Python port of ShadowsocksR <https://github.com/WooSoftware/shadowsocksr-origin>
+- ShadowsocksX-NG <https://github.com/shadowsocks/ShadowsocksX-NG>
